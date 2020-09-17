@@ -240,7 +240,7 @@ header.masthead .post-heading .meta a {
 .post-preview > a:focus,
 .post-preview > a:hover {
   text-decoration: none;
-  color: #0085a1;
+  color: #47b1e3;
 }
 .post-preview > a > .post-title {
   font-size: 30px;
@@ -342,15 +342,15 @@ footer .copyright {
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 .btn-primary {
-  background-color: #0085a1;
-  border-color: #0085a1;
+  background-color: #37517e;
+  border-color: #37517e;
 }
 .btn-primary:active,
 .btn-primary:focus,
 .btn-primary:hover {
   color: #fff;
-  background-color: #00657b !important;
-  border-color: #00657b !important;
+  background-color: #47b1e3 !important;
+  border-color: #47b1e3 !important;
 }
 .btn-lg {
   font-size: 16px;
@@ -364,4 +364,19 @@ footer .copyright {
   .milogo {
     width: 172px;
   }
+}
+
+.milogo {
+  width: 250px;
+}
+
+.font-apa {
+  font-family: "Times New Roman";
+  font-size: 22px;
+}
+
+.breadcrumb-item > a:focus,
+.breadcrumb-item > a:hover {
+  text-decoration: none;
+  color: #47b1e3;
 }
